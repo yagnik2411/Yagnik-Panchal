@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "802256833027",
+    "project_id": "yagnik-panchal",
+    "storage_bucket": "yagnik-panchal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802256833027:android:3f7b7bda1fe30165cd9c36",
+        "android_client_info": {
+          "package_name": "com.example.mysite"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB53bhALYdLz08hNS01yQYTDKu5cUzVR9E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
